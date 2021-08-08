@@ -51,4 +51,4 @@ This is an OpenGL based Computer Graphics project. A 3D theme park is implemente
 
 3. Back to default position, press b
 
-**Demo** will be found [here](https://youtu.be/-Qlz1vrWH88)
+**Demo** will be found [here](https://youtu.be/9K8Xr8ZMayE)
